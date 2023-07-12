@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m the developer and maintainer of [FriskyMouse](https://github.com/friskymouse/frisky-mouse). 
+- 🔭 I’m the developer and maintainer of [FriskyMouse](https://github.com/friskymouse/frisky-mouse).
+- 🐭 Get the [FriskyMouse app](https://apps.microsoft.com/store/detail/friskymouse/9NDWJST4VTQR) from Microsoft Store.
   
 <!--
 **frostybee/frostybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

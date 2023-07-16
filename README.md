@@ -1,7 +1,13 @@
 ### Hi there 👋
 - 🔭 I’m the developer and maintainer of [FriskyMouse](https://github.com/friskymouse/frisky-mouse).
 - 🐭 Get the [FriskyMouse app](https://apps.microsoft.com/store/detail/friskymouse/9NDWJST4VTQR) from Microsoft Store.
-  
+
+## Stats
+<div align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=frostybee&count_private=true&theme=github_dark&show_icons=true" alt="Frostybee's github stats" style="max-width:100%;">
+<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frostybee&layout=compact&theme=github_dark" alt="Frostybee's github stats" style="max-width:100%;">
+ </div>
+ 
 <!--
 **frostybee/frostybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

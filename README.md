@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m the developer and maintainer of [FriskyMouse](https://github.com/friskymouse/frisky-mouse).
+- 🔭 I’m the developer and maintainer of [FriskyMouse](https://github.com/frostybee/frisky-mouse).
 - 🐭 Get the [FriskyMouse app](https://apps.microsoft.com/store/detail/friskymouse/9NDWJST4VTQR) from Microsoft Store.
 
 ## Stats

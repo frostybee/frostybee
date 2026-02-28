@@ -6,8 +6,8 @@
 - [ValiComb](https://frostybee.github.io/valicomb/): Type-safe PHP validation library. Improved fork of Valitron.
 - [Swarm Icons](https://frostybee.github.io/swarm-icons/): PHP library for rendering SVG icons from Iconify collections.
 - [Wampoon](https://wampoon-box.github.io/): Portable Apache, MariaDB, and PHP stack for Windows.
-- Starlight Plugins: [Tags](https://frostybee.github.io/starlight-tags/) | [Telescope](https://frostybee.github.io/starlight-telescope/) | [Announcement](https://frostybee.github.io/starlight-announcement/) | [Theme Galaxy](https://frostybee.github.io/starlight-theme-galaxy/) | [Scroll to Top](https://frostybee.github.io/starlight-scroll-to-top/) | [Codeblock Fullscreen](https://frostybee.github.io/starlight-codeblock-fullscreen/) | [Custom Navigation](https://frostybee.github.io/starlight-custom-navigation/)
-- Expressive Code Plugins: [Typewriter](https://frostybee.github.io/expressive-code-typewriter/) | [Collapsible](https://frostybee.github.io/expressive-code-collapsible/) | [Fullscreen](https://frostybee.github.io/expressive-code-fullscreen/) | [Language Badge](https://frostybee.github.io/expressive-code-language-badge/)
+- [Starlight Plugins](https://github.com/frostybee?tab=repositories&q=starlight): A collection of Astro Starlight plugins for docs navigation, tagging, theming, and more.
+- [Expressive Code Plugins](https://github.com/frostybee?tab=repositories&q=expressive-code): A collection of Expressive Code plugins for code block animations, collapsing, fullscreen, and more.
 <!--
 ## Stats
 <div align="center">

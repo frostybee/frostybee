@@ -3,9 +3,11 @@
 
 ### Projects
 
-- [ValiComb](https://frostybee.github.io/valicomb/): A modern, type-safe PHP validation library for PHP 8.2+ with security-first design and zero dependencies. Fork of Valitron.
-- [Swarm Icons](https://frostybee.github.io/swarm-icons/): A framework-agnostic PHP library for rendering SVG icons with access to 200,000+ icons from Iconify collections.
-- [Wampoon](https://wampoon-box.github.io/) : A lightweight, portable development environment bundling Apache, MariaDB, and PHP for Windows. No installation required.
+- [ValiComb](https://frostybee.github.io/valicomb/): Type-safe PHP validation library. Improved fork of Valitron.
+- [Swarm Icons](https://frostybee.github.io/swarm-icons/): PHP library for rendering SVG icons from Iconify collections.
+- [Wampoon](https://wampoon-box.github.io/): Portable Apache, MariaDB, and PHP stack for Windows.
+- Starlight Plugins: [Tags](https://frostybee.github.io/starlight-tags/) | [Telescope](https://frostybee.github.io/starlight-telescope/) | [Announcement](https://frostybee.github.io/starlight-announcement/) | [Theme Galaxy](https://frostybee.github.io/starlight-theme-galaxy/) | [Scroll to Top](https://frostybee.github.io/starlight-scroll-to-top/) | [Codeblock Fullscreen](https://frostybee.github.io/starlight-codeblock-fullscreen/) | [Custom Navigation](https://frostybee.github.io/starlight-custom-navigation/)
+- Expressive Code Plugins: [Typewriter](https://frostybee.github.io/expressive-code-typewriter/) | [Collapsible](https://frostybee.github.io/expressive-code-collapsible/) | [Fullscreen](https://frostybee.github.io/expressive-code-fullscreen/) | [Language Badge](https://frostybee.github.io/expressive-code-language-badge/)
 <!--
 ## Stats
 <div align="center">

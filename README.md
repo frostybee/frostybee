@@ -8,6 +8,11 @@
 - [Wampoon](https://wampoon-box.github.io/): Portable Apache, MariaDB, and PHP stack for Windows.
 - [Starlight Plugins](https://github.com/frostybee?tab=repositories&q=starlight): A collection of Astro Starlight plugins for docs navigation, tagging, theming, and more.
 - [Expressive Code Plugins](https://github.com/frostybee?tab=repositories&q=expressive-code): A collection of Expressive Code plugins for code block animations, collapsing, fullscreen, and more.
+
+### VS Code Extensions
+
+- [Nouto](https://marketplace.visualstudio.com/items?itemName=frostybee-dev.nouto): API client for REST, GraphQL, WebSockets, SSE, and gRPC.
+- [Nouto JSON Explorer](https://marketplace.visualstudio.com/items?itemName=frostybee-dev.nouto-json-explorer): JSON explorer with tree view, table view, search, filtering, bookmarks, and more.
 <!--
 ## Stats
 <div align="center">
